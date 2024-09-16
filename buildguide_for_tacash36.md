@@ -145,6 +145,35 @@ PCBの裏面から差し込んで、表面をはんだ付けします。仮固�
 ![](img/img00021.jpg)
 
 
+### 5a BLE MIcro Pro
+
+
+
+### 5b Pro Micro
+If you are not interested in wireless connectivity, you can keep the price low by using the pro micro.
+<br>
+もしあなたが無線接続に興味がないのであれば、pro microを使用することで価格を低くすることができます。
+<br><br>
+Please prepare two con-through (12 pin 2.5mm) instead of the pin header included with pro micro.
+<br>
+pro micro付属のピンヘッダではなく、コンスルー（12ピン 2.5mm）を２つ用意してください。
+<br>
+![](img/img00022.jpg)
+There is a small hole in the side of the conthru. Insert it into the PCB, being careful to orient the holes the same way.
+<br>
+コンスルーの側面に小さい穴が開いています。穴を同じ向きになるよう注意して、PCBに差し込んでください。
+![](img/img00023.jpg)
+Insert it into the con-through so that the part with the pro micro parts is visible. If the pro micro easily comes off from the console, we recommend soldering. However, due to the structure of the bottom plate of the 3D printer, I think it will be difficult to remove, so no soldering is necessary.
+<br>
+pro microの部品が載っている方が見えるように、コンスルーに差し込んでください。もし、pro microがコンスルーから外れやすいときははんだ付けをお勧めします。ただし、3Dプリンタのボトムプレートの構造上、外れにくいと思うので、はんだ付け不要です。
+<br>
+![](img/img00024.jpg)
+Some of them are soldered.
+一応はんだ付けしたものもです。
+![](img/img00025.jpg)
+
+
+
 
 
 ### 4 Install firmware
