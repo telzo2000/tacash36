@@ -98,7 +98,52 @@ Insert the reset switch from the back of the PCB and solder the exposed part.
 
 ![](img/img00012.jpg)
 
+Solder the slide switch first.
 <br>
+最初にスライドスッチをはんだ付けします。
+<br>
+![](img/img00013.jpg)
+
+Insert the switch from the back of the PCB with the switch knob facing outward.
+<br>
+スイッチのつまみが外側に向くようにして、PCBの裏面から差し込みます。
+![](img/img00018.jpg)
+
+After temporarily fixing it with masking tape, etc., solder the exposed part of the PCB.
+<br>
+マスキングテープなどで仮固定をしてから、PCBの表面に出た部分をはんだ付けします。
+![](img/img00019.jpg)
+<br>
+Next, solder the capacitor.
+<br>
+次に、コンデンサをはんだ付けします。
+<br>
+<br>
+First, apply solder to only one side of the two pads.
+<br>
+最初に、２つあるパッドの片側だけに、はんだを盛り付けます。
+![](img/img00015.jpg)
+
+Place the capacitor and fix it by melting the solder.
+<br>
+コンデンサを置き、もったはんだを溶かしながら、固定します。
+<br>
+Solder the capacitor, applying solder to the remaining pads.
+<br>
+残りのパッドにはんだを盛りながら、コンデンサをはんだ付けします。
+![](img/img00016.jpg)
+Finally, attach the battery holder.
+<br>
+最後に、電池ホルダを取り付けます。
+<br>
+Insert it from the back side of the PCB and solder the front side. Using masking tape for temporary fixation will make the work easier.
+<br>
+PCBの裏面から差し込んで、表面をはんだ付けします。仮固定にマスキングテープを使うと作業が簡単になります。
+<br>
+![](img/img00020.jpg)
+
+![](img/img00021.jpg)
+
 
 
 
