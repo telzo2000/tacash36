@@ -17,4 +17,16 @@ This layout has this image.
 This keyboard use Pro micro or BLE Micro Pro, run qmk_firmware.
 <br>
 With this keyboard, you can edit your favorite keymap using vial.
+
+
 <br>
+
+## firmware
+
+
+
+## Build guide
+
+
+## Parts list
+
