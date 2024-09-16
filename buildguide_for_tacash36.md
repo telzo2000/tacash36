@@ -187,36 +187,15 @@ Some of them are soldered.
 
 
 
-### 4 Install firmware
+### 6a Install firmware （BLE Micro Pro）
 
 
-Install QMK_Firmware from your PC to RP-2040Zero.
-<br>
-QMK_FirmwareをPCからRP-2040Zeroにインストールしてください。
-<br>
-<br>
-① Download https://github.com/telzo2000/cool336/blob/main/firmware/cool336_vial.uf2 to your PC.
-<br>
-① https://github.com/telzo2000/cool336/blob/main/firmware/cool336_vial.uf2　
-をPCにダウンロードしておく。
 
-<br><br>
-② Connect the PC and RP-2040Zero with a USB cable.
-<br>
-②PCとRP-2040ZeroをUSBケーブルで繋ぐ。
-<br><br>
-③Press the reset button while pressing the boost button on the RP-2040Zero.
-<br>
-③RP-2040Zeroのboostボタン押しながら、resetボタンを押す。
-<br><br>
-④Since there is a folder of RP-2040Zero on the PC screen, drag and drop the downloaded cool336_vial.uf2 there.
-<br>
-④PC画面にはRP-2040Zeroのフォルダがあるので、そこに、ダウンロードしたcool336_vial.uf2をドラッグアンドドロップする。
-<br><br>
+### 6bInstall firmware （pro micro）
 
-⑤Check if it is recognized by connecting to [vial](https://get.vial.today/). Edit the keymap accordingly.
-<br>
-⑤[vial](https://get.vial.today/)に繋いで認識するかどうか確認する。合わせてキーマップの編集をする。
+
+
+
 
 ### 5 Fix the stabilizer
 
