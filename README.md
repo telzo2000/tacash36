@@ -23,10 +23,12 @@ With this keyboard, you can edit your favorite keymap using vial.
 
 ## firmware
 
-
+https://github.com/telzo2000/tacash36/tree/main/firmware
 
 ## Build guide
 
+https://github.com/telzo2000/tacash36/blob/main/buildguide_for_tacash36.md
 
 ## Parts list
+
 
